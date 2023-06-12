@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class IngresaNumeros {
     public static void main(String[] args) {
+        //declarar variables con sus respectivos tipos
         int[] numeros = new int[5];
         int mayor = Integer.MIN_VALUE;
         int menor = Integer.MAX_VALUE;
